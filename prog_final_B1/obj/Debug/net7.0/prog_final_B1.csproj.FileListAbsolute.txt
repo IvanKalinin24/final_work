@@ -1,0 +1,15 @@
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\bin\Debug\net7.0\prog_final_B1.exe
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\bin\Debug\net7.0\prog_final_B1.deps.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\bin\Debug\net7.0\prog_final_B1.runtimeconfig.json
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\bin\Debug\net7.0\prog_final_B1.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\bin\Debug\net7.0\prog_final_B1.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.csproj.AssemblyReference.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.AssemblyInfoInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.AssemblyInfo.cs
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\refint\prog_final_B1.dll
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.pdb
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\prog_final_B1.genruntimeconfig.cache
+C:\Users\Ivan Kalinin\Desktop\GeekBrains\finalWork_B1\work_b1\prog_final_B1\obj\Debug\net7.0\ref\prog_final_B1.dll
